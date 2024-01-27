@@ -8,7 +8,6 @@ Team Project
 
 General Information
 
- 
 
 In this project you will use a dataset describing blood transfusions and outcomes of lung transplant patients. You will use this data in order to answer the following two main general questions:
 
